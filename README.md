@@ -113,8 +113,8 @@ Proje, Python'ın standart kütüphanesinde yer alan `sqlite3` modülünü kulla
 
 1. Depoyu yerel bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/](https://github.com/)<kullanici-adi>/<repo-adi>.git
-   cd <repo-adi>
+   git clone https://github.com/esmanuryavuz908/sql-harcama-analizi.git
+   cd sql-harcama-analizi
    ```
 
 2. Jupyter Notebook yüklü değilse kurun:
